@@ -1,0 +1,22 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\AtmegaProject\Project Outputs for AtmegaProject\Pick Place for AtmegaDevBoard.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       13/08/23
+Time:       19:05
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"U1","ATmega328P-AU","TopLayer","32A_M","26.5000","11.5000","0","8-bit AVR Microcontroller, 32KB Flash, 1KB EEPROM, 2KB SRAM, 32-pin TQFP, Industrial Grade (-40°C to 85°C)"
+"X1","16Mhz","TopLayer","FOX-FOXSDLF160-20_V","17.5000","10.5000","90","Resistance Weld SMD Crystal, 16 MHz, +/- 30 ppm, 20 pF, -20 to 70 degC, 2-Pin SMD, RoHS, Tape and Reel"
+"P4","IO2","TopLayer","MHDR1X6","26.3650","2.0000","0","Header, 6-Pin"
+"P3","IO1","TopLayer","MHDR1X6","26.0950","21.0000","180","Header, 6-Pin"
+"P2","USBasp","TopLayer","61201021621","6.2700","11.4600","90",""
+"P1","FTDI","TopLayer","MHDR1X6","37.0000","11.3650","90","Header, 6-Pin"
+"C3","22pf","TopLayer","FP-C0805C-DN-MFG","13.0000","6.7500","90","Capacitor; Ceramic; Cap; 22.0pF; Tol 5%; SMT; Vol-Rtg 50V; C0G; Tape and Reel"
+"C2","22pf","TopLayer","FP-C0805C-DN-MFG","13.0000","15.0000","270","Capacitor; Ceramic; Cap; 22.0pF; Tol 5%; SMT; Vol-Rtg 50V; C0G; Tape and Reel"
+"C1","100n","TopLayer","FP-0805-L_2_01_0_2-W_1_25-IPC_B","34.0000","19.5000","90","General Purpose Ceramic Capacitor, 0805, 100nF, 10%, X7R, 15%, 100V"

@@ -1,0 +1,10 @@
+Line #,Name,Description,Designator,Revision ID,Revision State,Revision Status,Quantity,Manufacturer 1,Manufacturer Part Number 1,Manufacturer Lifecycle 1,Supplier 1,Supplier Part Number 1,Supplier Unit Price 1,Supplier Subtotal 1
+
+"","08051C104KAT2A","General Purpose Ceramic Capacitor, 0805, 100nF, 10%, X7R, 15%, 100V","C1","CMP-2007-04174-2","Released","Up to date","1","Kyocera AVX","08051C104KAT2A","Volume Production","Newark","56K4453","0.028","0.028"
+"","C0805C220J5GACTU","Capacitor; Ceramic; Cap; 22.0pF; Tol 5%; SMT; Vol-Rtg 50V; C0G; Tape and Reel","C2, C3","CMP-2007-00048-2","New From Design","Up to date","2","KEMET","C0805C220J5GACTU","Volume Production","Newark","79H0275","0.039","0.078"
+"","FTDI","Header, 6-Pin","P1","","Not managed","","1","","","","","","",""
+"","61201021621","","P2","CMP-1502-00007-2","Released","Up to date","1","Wurth Electronics","61201021621","Volume Production","Digi-Key","732-2094-ND","0.48","0.48"
+"","IO1","Header, 6-Pin","P3","","Not managed","","1","","","","","","",""
+"","IO2","Header, 6-Pin","P4","","Not managed","","1","","","","","","",""
+"","ATmega328P-AU","8-bit AVR Microcontroller, 32KB Flash, 1KB EEPROM, 2KB SRAM, 32-pin TQFP, Industrial Grade (-40°C to 85°C)","U1","CMP-0095-00269-2","Released","Up to date","1","Microchip","ATMEGA328P-AU","Volume Production","Mouser","556-ATMEGA328P-AU","2.66","2.66"
+"","FOXSDLF/160-20","Resistance Weld SMD Crystal, 16 MHz, +/- 30 ppm, 20 pF, -20 to 70 degC, 2-Pin SMD, RoHS, Tape and Reel","X1","CMP-1749-00001-1","Released","Up to date","1","Fox Electronics","FOXSDLF/160-20","Volume Production","","","",""
